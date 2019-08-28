@@ -7,7 +7,7 @@ public class BoardSolution {
     private Layout layout;
 
     public BoardSolution(Layout layout, ArrayList<String> potentialWords) {
-        this.potentialWords = potentialWords;
+        this.potentialWords = potentialWords;  //fork test
         this.layout = layout;
 
     }
